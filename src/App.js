@@ -1,12 +1,11 @@
-import './App.css';
+import { Video, Thumb } from "./components/Video";
 
 function App() {
   return (
-    <div className="App">
-      <div className="App-header">
-        Welcome to New React App
-      </div>
+    <div>
+      <Video></Video>
+      <Thumb></Thumb>
     </div>
-  );
+  )
 }
 export default App;

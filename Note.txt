@@ -1,0 +1,3 @@
+:- We have to use upperCase for Component call
+:- () is known as paranthesis 
+:- TimeStamps 1:00 hour
