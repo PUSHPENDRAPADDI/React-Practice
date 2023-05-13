@@ -1,10 +1,12 @@
+import Test from "./components/Test";
 import { Video, Thumb } from "./components/Video";
 
 function App() {
   return (
     <div>
-      <Video></Video>
-      <Thumb></Thumb>
+      <Test/>
+      {/* <Video /> */}
+      {/* <Thumb></Thumb> */}
     </div>
   )
 }
